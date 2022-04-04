@@ -1,0 +1,8 @@
+/zipfiles/
+*.jp2
+*.xml
+*.iml
+
+/clipped_images/
+/test_agrisat/
+/vectors/
